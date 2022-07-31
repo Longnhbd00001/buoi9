@@ -1,0 +1,87 @@
+.l2{
+    background-color: aliceblue;
+}
+.l3{
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    list-style: none;
+}
+.l4{
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+.l5{
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0px 200px 0px 0px;
+}
+.l4 li a{
+    display: block;
+    padding: 18px 20px;
+    text-decoration: none;
+    color: brown;
+}
+.l5 li a{
+    display: block;
+    padding: 18px 20px;
+    text-decoration: none;
+    color: brown;
+}
+.l7{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    justify-items: center;
+}
+.logo{
+    font-size: 5rem;
+}
+.l8{
+    list-style: none;
+    display: flex;
+    margin: 0;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    
+}
+.l88{
+    position: relative;
+}
+.l8 li a{
+    display: block;
+    padding: 18px 20px;
+    text-decoration: none;
+    color: chocolate;
+}
+.l9{
+    list-style: none;
+    display: flex;
+}
+.l9 li a{
+    display: block;
+    padding: 18px 20px;
+    text-decoration: none;
+    color: chocolate;
+}
+.submenu{
+    list-style: none;
+    padding: 15px 0px;
+    position: absolute;
+    background-color: floralwhite;
+    width: 149px;
+}
+.subblog{
+    list-style: none;
+    padding: 15px 0px;
+    position: absolute;
+    background-color: floralwhite;
+    width: 149px;
+}
+.l99{
+    position: relative;
+}
+
